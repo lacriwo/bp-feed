@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-feed-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repo
@@ -26,6 +31,10 @@ jobs:
       - name: Generate patched feed
         env:
           SOURCE_FEED_URL: ${{ secrets.SOURCE_FEED_URL }}
+          TARGET_URL: https://ligo-polyanka.ru
+          OUTPUT_FILE: docs/bp-yandex-patched.xml
+          REQUEST_TIMEOUT: "90"
+          MAX_RETRIES: "3"
         run: python scripts/update_feed.py
 
       - name: Commit and push if changed
