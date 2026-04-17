@@ -1,0 +1,44 @@
+name: Update Verba Feed
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Ensure docs directory
+        run: mkdir -p docs
+
+      - name: Generate patched feed
+        env:
+          SOURCE_FEED_URL: ${{ secrets.SOURCE_FEED_URL }}
+        run: python scripts/update_feed.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/394-yandex-patched.xml
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update patched feed"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
