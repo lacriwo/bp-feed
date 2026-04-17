@@ -23,9 +23,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Ensure docs directory
-        run: mkdir -p docs
-
       - name: Generate patched feed
         env:
           SOURCE_FEED_URL: ${{ secrets.SOURCE_FEED_URL }}
