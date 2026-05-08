@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-<generation-date>2026-05-08T08:32:14+11:00</generation-date>
+<generation-date>2026-05-08T17:18:16+11:00</generation-date>
 <offer internal-id="7247066">
 <category>квартира</category>
 <type>продажа</type>
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-07T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-06T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -25,7 +25,7 @@
 <organization>Группа компаний ЛИГО</organization>
 </sales-agent>
 <price>
-<value>11000000</value>
+<value>11200000</value>
 <currency>RUB</currency>
 </price>
 <area><value>60.91</value><unit>кв.м</unit></area>
@@ -64,8 +64,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-07T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-08T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -132,8 +132,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-07T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-06T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -200,8 +200,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -265,8 +265,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-06T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-08T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -324,8 +324,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-06T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-06T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -392,8 +392,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -458,8 +458,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -518,8 +518,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:14+11:00</creation-date>
-<last-update-date>2026-05-07T08:32:14+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-06T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -578,8 +578,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -647,8 +647,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -714,8 +714,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-06T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -774,8 +774,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-07T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -845,8 +845,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-06T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -906,8 +906,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-06T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-07T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -967,8 +967,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-05T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-06T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-05T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-08T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -1028,8 +1028,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-polyanka.ru</url>
-<creation-date>2026-05-04T08:32:15+11:00</creation-date>
-<last-update-date>2026-05-08T08:32:15+11:00</last-update-date>
+<creation-date>2026-05-04T17:18:16+11:00</creation-date>
+<last-update-date>2026-05-06T17:18:16+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
